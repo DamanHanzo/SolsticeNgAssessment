@@ -7,12 +7,7 @@ import { Team } from '../models/Team';
   providedIn: 'root'
 })
 export class NFLDataService {
-
-  constructor(private http: HttpClient) {
-    this.getJSON().subscribe(data => {
-      console.log(data);
-    });
-  }
+  constructor(private http: HttpClient) { }
 
   public getJSON(): Observable<Team[]> {
     return this.http.get<Team[]>('./assets/nfl-data.json');

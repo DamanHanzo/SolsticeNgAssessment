@@ -8,14 +8,6 @@ import { Team } from './models/Team';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
-export class AppComponent implements OnInit {
-  nflData$: Observable<Team[]>;
-
+export class AppComponent {
   title = 'SolsticeNgAssessment';
-
-  constructor(private nflDataService: NFLDataService) { }
-
-  ngOnInit() {
-    this.nflData$ = this.nflDataService.getJSON();
-  }
 }

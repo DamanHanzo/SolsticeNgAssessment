@@ -1,21 +1,5 @@
 <div style="text-align:center">
   <h1>Welcome to {{ title }}!</h1>
 </div>
-<mat-grid-list cols="4" rowHeight="1:1" gutterSize="10px">
-  <mat-grid-tile *ngFor="let team of nflData$ | async">
-    <mat-card>
-      <mat-card-header>
-        <mat-card-title>{{ team.fullName }}</mat-card-title>
-      </mat-card-header>
-      <img mat-card-image [src]="team.imagePath"/>
-      <mat-card-content>
-        {{ team.code }}
-      </mat-card-content>
-      <mat-card-actions>
-        <button mat-button>LIKE</button>
-        <button mat-button>SHARE</button>
-      </mat-card-actions>
-    </mat-card>
-  </mat-grid-tile>
-</mat-grid-list>
+<app-nfl-card></app-nfl-card>
 <router-outlet></router-outlet>

@@ -9,10 +9,12 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatCardModule } from '@angular/material/card';
+import { NflCardComponent } from './components/nfl-card/nfl-card.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NflCardComponent
   ],
   imports: [
     HttpClientModule,
