@@ -7,3 +7,5 @@ Solstice has an opportunity to win an engagement deal with the NFL. To land the 
 ## Notes
 
 Basic architecture of the app is setup for you. Write a test before writing any production code; following the Red, Green, Refactor strategy. 
+
+Use the NflDataService to populate the NflDataComponent. Do not modify the service and/or the nflData.json. 
