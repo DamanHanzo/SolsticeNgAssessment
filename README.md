@@ -1,27 +1,9 @@
 # SolsticeNgAssessment
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.
+## Problem Statement
 
-## Development server
+Solstice has an opportunity to win an engagement deal with the NFL. To land the deal, solstice needs to present a working POC to the client. You have been tasked with creating a SPA(single page application) that supports commonly used mobile devices. The app will display NFL teams in order of teams with a player who has the highest passing yards to the lowest passing yards(descending order). In case there is a tie, team with a higher average passing yards will be ranked above the team with the lower passing yards. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+##Notes
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Basic architecture of the app is setup for you. Write a test before writing any production code; following the Red, Green, Refactor strategy. 
