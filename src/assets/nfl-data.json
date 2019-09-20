@@ -1,0 +1,2918 @@
+[
+  {
+    "code": "ARI",
+    "fullName": "Arizona Cardinals",
+    "shortName": "Arizona",
+    "imagePath": "assets/images/cardinal.png",
+    "players": [
+      {
+        "name": "Larry Fitzgerald",
+        "passingYards": "702.21"
+      },
+      {
+        "name": "Andy Isabella",
+        "passingYards": "790.02"
+      },
+      {
+        "name": "D.J. Humphries",
+        "passingYards": "901.2"
+      },
+      {
+        "name": "Joshua Miles",
+        "passingYards": "792"
+      },
+      {
+        "name": "Justin Pugh",
+        "passingYards": "900"
+      },
+      {
+        "name": "Mason Cole",
+        "passingYards": "812"
+      },
+      {
+        "name": "A.Q. Shipley",
+        "passingYards": "600.23"
+      },
+      {
+        "name": "Mason Cole",
+        "passingYards": "444.22"
+      },
+      {
+        "name": "J.R. Sweezy",
+        "passingYards": "112.23"
+      },
+      {
+        "name": "Lamont Gaillard",
+        "passingYards": "699.99"
+      }
+    ]
+  },
+  {
+    "code": "ATL",
+    "fullName": "Atlanta Falcons",
+    "shortName": "Atlanta",
+    "imagePath": "assets/images/falcons.jpg",
+    "players": [
+      {
+        "name": "Ricardo Allen",
+        "passingYards": "539.26"
+      },
+      {
+        "name": "Allen Bailey",
+        "passingYards": "682.95"
+      },
+      {
+        "name": "Kenjon Barner",
+        "passingYards": "559.18"
+      },
+      {
+        "name": "Vic Beasley Jr.",
+        "passingYards": "725.21"
+      },
+      {
+        "name": "Matt Bosher",
+        "passingYards": "551.33"
+      },
+      {
+        "name": "Jamon Brown",
+        "passingYards": "775.70"
+      },
+      {
+        "name": "Matt Bryant",
+        "passingYards": "582.37"
+      },
+      {
+        "name": "De'Vondre Campbell",
+        "passingYards": "434.95"
+      },
+      {
+        "name": "James Carpenter",
+        "passingYards": "503.02"
+      },
+      {
+        "name": "Adrian Clayborn",
+        "passingYards": "762.94"
+      },
+      {
+        "name": "John Cominsky",
+        "passingYards": "857.12"
+      },
+      {
+        "name": "Jack Crawford",
+        "passingYards": "690.31"
+      },
+      {
+        "name": "Tyeler Davison",
+        "passingYards": "642.32"
+      },
+      {
+        "name": "Devonta Freeman",
+        "passingYards": "610.27"
+      },
+      {
+        "name": "Russell Gage",
+        "passingYards": "584.39"
+      },
+      {
+        "name": "Matt Gono",
+        "passingYards": "731.21"
+      },
+      {
+        "name": "Jermaine Grace",
+        "passingYards": "565.59"
+      },
+      {
+        "name": "Jaeden Graham",
+        "passingYards": "866.08"
+      },
+      {
+        "name": "Justin Hardy",
+        "passingYards": "530.72"
+      },
+      {
+        "name": "Josh Harris",
+        "passingYards": "549.69"
+      },
+      {
+        "name": "Brian Hill",
+        "passingYards": "873.02"
+      },
+      {
+        "name": "Austin Hooper",
+        "passingYards": "786.48"
+      },
+      {
+        "name": "Kemal Ishmael",
+        "passingYards": "773.06"
+      },
+      {
+        "name": "Grady Jarrett",
+        "passingYards": "417.70"
+      },
+      {
+        "name": "Deion Jones",
+        "passingYards": "813.60"
+      },
+      {
+        "name": "Julio Jones",
+        "passingYards": "563.86"
+      },
+      {
+        "name": "Damontae Kazee",
+        "passingYards": "452.05"
+      },
+      {
+        "name": "Alex Mack",
+        "passingYards": "882.08"
+      },
+      {
+        "name": "Jake Matthews",
+        "passingYards": "593.18"
+      },
+      {
+        "name": "Kaleb McGary",
+        "passingYards": "565.38"
+      },
+      {
+        "name": "Takkarist McKinley",
+        "passingYards": "725.45"
+      },
+      {
+        "name": "Jordan Miller",
+        "passingYards": "463.77"
+      },
+      {
+        "name": "Keanu Neal",
+        "passingYards": "483.78"
+      },
+      {
+        "name": "Sharrod Neasman",
+        "passingYards": "765.33"
+      },
+      {
+        "name": "Isaiah Oliver",
+        "passingYards": "893.25"
+      },
+      {
+        "name": "Qadree Ollison",
+        "passingYards": "883.12"
+      },
+      {
+        "name": "Foyesade Oluokun",
+        "passingYards": "542.17"
+      },
+      {
+        "name": "Calvin Ridley",
+        "passingYards": "437.80"
+      },
+      {
+        "name": "Duke Riley",
+        "passingYards": "575.18"
+      },
+      {
+        "name": "Matt Ryan",
+        "passingYards": "791.35"
+      },
+      {
+        "name": "Ty Sambrailo",
+        "passingYards": "568.75"
+      },
+      {
+        "name": "Mohamed Sanu",
+        "passingYards": "756.65"
+      },
+      {
+        "name": "Matt Schaub",
+        "passingYards": "882.47"
+      },
+      {
+        "name": "Wes Schweitzer",
+        "passingYards": "440.26"
+      },
+      {
+        "name": "Deadrin Senat",
+        "passingYards": "805.09"
+      },
+      {
+        "name": "Kendall Sheffield",
+        "passingYards": "542.58"
+      },
+      {
+        "name": "Keith Smith",
+        "passingYards": "782.53"
+      },
+      {
+        "name": "Ito Smith",
+        "passingYards": "654.72"
+      },
+      {
+        "name": "Luke Stocker",
+        "passingYards": "401.90"
+      },
+      {
+        "name": "Desmond Trufant",
+        "passingYards": "703.86"
+      },
+      {
+        "name": "John Wetzel",
+        "passingYards": "714.13"
+      },
+      {
+        "name": "Blidi Wreh-Wilson",
+        "passingYards": "850.41"
+      },
+      {
+        "name": "Olamide Zaccheaus",
+        "passingYards": "558.39"
+      },
+      {
+        "name": "Kurt Benkert",
+        "passingYards": "504.34"
+      },
+      {
+        "name": "Michael Bennett",
+        "passingYards": "695.39"
+      },
+      {
+        "name": "Richie Brown",
+        "passingYards": "730.57"
+      },
+      {
+        "name": "Taveze Calhoun",
+        "passingYards": "651.55"
+      },
+      {
+        "name": "Alex Gray",
+        "passingYards": "420.94"
+      },
+      {
+        "name": "Ra'Shede Hageman",
+        "passingYards": "546.38"
+      },
+      {
+        "name": "Chris Lindstrom",
+        "passingYards": "762.45"
+      },
+      {
+        "name": "Steven Means",
+        "passingYards": "505.47"
+      },
+      {
+        "name": "Matt Simms",
+        "passingYards": "509.54"
+      },
+      {
+        "name": "J.J. Wilcox",
+        "passingYards": "691.38"
+      },
+      {
+        "name": "Christian Blake",
+        "passingYards": "706.95"
+      },
+      {
+        "name": "Jamal Carter",
+        "passingYards": "448.10"
+      },
+      {
+        "name": "Chris Cooper",
+        "passingYards": "803.53"
+      },
+      {
+        "name": "Danny Etling",
+        "passingYards": "427.62"
+      },
+      {
+        "name": "Sean Harlow",
+        "passingYards": "880.57"
+      },
+      {
+        "name": "Austin Larkin",
+        "passingYards": "433.15"
+      },
+      {
+        "name": "Brandon Powell",
+        "passingYards": "551.56"
+      },
+      {
+        "name": "Jacob Tuioti-Mariner",
+        "passingYards": "560.06"
+      },
+      {
+        "name": "Matt Wile",
+        "passingYards": "594.08"
+      },
+      {
+        "name": "Nate Wozniak",
+        "passingYards": "797.94"
+      },
+      {
+        "name": "Justin Zimmer",
+        "passingYards": "436.97"
+      }
+    ]
+  },
+  {
+    "code": "BAL",
+    "fullName": "Baltimore Ravens",
+    "shortName": "Baltimore",
+    "imagePath": "assets/images/ravens.jpg",
+    "players": [
+      {
+        "name": "Otaro Alaka",
+        "passingYards": "870.64"
+      },
+      {
+        "name": "Mark Andrews",
+        "passingYards": "622.75"
+      },
+      {
+        "name": "Anthony Averett",
+        "passingYards": "663.55"
+      },
+      {
+        "name": "Justin Bethel",
+        "passingYards": "751.50"
+      },
+      {
+        "name": "Chris Board",
+        "passingYards": "775.67"
+      },
+      {
+        "name": "Tyus Bowser",
+        "passingYards": "742.28"
+      },
+      {
+        "name": "Miles Boykin",
+        "passingYards": "420.70"
+      },
+      {
+        "name": "Nick Boyle",
+        "passingYards": "697.34"
+      },
+      {
+        "name": "Bradley Bozeman",
+        "passingYards": "717.98"
+      },
+      {
+        "name": "Marquise Brown",
+        "passingYards": "775.67"
+      },
+      {
+        "name": "Orlando Brown Jr.",
+        "passingYards": "400.43"
+      },
+      {
+        "name": "Maurice Canady",
+        "passingYards": "808.39"
+      },
+      {
+        "name": "Brandon Carr",
+        "passingYards": "418.72"
+      },
+      {
+        "name": "Chuck Clark",
+        "passingYards": "834.40"
+      },
+      {
+        "name": "Morgan Cox",
+        "passingYards": "825.34"
+      },
+      {
+        "name": "Gus Edwards",
+        "passingYards": "562.03"
+      },
+      {
+        "name": "DeShon Elliott",
+        "passingYards": "529.99"
+      },
+      {
+        "name": "Jaylon Ferguson",
+        "passingYards": "893.17"
+      },
+      {
+        "name": "Robert Griffin III",
+        "passingYards": "764.37"
+      },
+      {
+        "name": "Justice Hill",
+        "passingYards": "616.04"
+      },
+      {
+        "name": "Marlon Humphrey",
+        "passingYards": "614.77"
+      },
+      {
+        "name": "Hayden Hurst",
+        "passingYards": "791.33"
+      },
+      {
+        "name": "James Hurst",
+        "passingYards": "867.70"
+      },
+      {
+        "name": "Mark Ingram II",
+        "passingYards": "887.54"
+      },
+      {
+        "name": "Lamar Jackson",
+        "passingYards": "618.07"
+      },
+      {
+        "name": "Tony Jefferson",
+        "passingYards": "769.00"
+      },
+      {
+        "name": "Cyrus Jones",
+        "passingYards": "813.94"
+      },
+      {
+        "name": "Matthew Judon",
+        "passingYards": "705.60"
+      },
+      {
+        "name": "Sam Koch",
+        "passingYards": "590.92"
+      },
+      {
+        "name": "Anthony Levine Sr.",
+        "passingYards": "509.89"
+      },
+      {
+        "name": "Daylon Mack",
+        "passingYards": "473.24"
+      },
+      {
+        "name": "Pernell McPhee",
+        "passingYards": "792.58"
+      },
+      {
+        "name": "Trace McSorley",
+        "passingYards": "847.83"
+      },
+      {
+        "name": "Patrick Mekari",
+        "passingYards": "654.53"
+      },
+      {
+        "name": "Chris Moore",
+        "passingYards": "594.58"
+      },
+      {
+        "name": "Patrick Onwuasor",
+        "passingYards": "414.77"
+      },
+      {
+        "name": "Michael Pierce",
+        "passingYards": "602.47"
+      },
+      {
+        "name": "Ben Powers",
+        "passingYards": "815.24"
+      },
+      {
+        "name": "Patrick Ricard",
+        "passingYards": "525.53"
+      },
+      {
+        "name": "Seth Roberts",
+        "passingYards": "559.38"
+      },
+      {
+        "name": "Jaleel Scott",
+        "passingYards": "416.74"
+      },
+      {
+        "name": "Matt Skura",
+        "passingYards": "555.29"
+      },
+      {
+        "name": "Jimmy Smith",
+        "passingYards": "529.07"
+      },
+      {
+        "name": "Willie Snead IV",
+        "passingYards": "589.19"
+      },
+      {
+        "name": "Ronnie Stanley",
+        "passingYards": "613.74"
+      },
+      {
+        "name": "Earl Thomas III",
+        "passingYards": "661.77"
+      },
+      {
+        "name": "Brynden Trawick",
+        "passingYards": "419.81"
+      },
+      {
+        "name": "Justin Tucker",
+        "passingYards": "869.53"
+      },
+      {
+        "name": "Brandon Williams",
+        "passingYards": "624.88"
+      },
+      {
+        "name": "Tim Williams",
+        "passingYards": "895.09"
+      },
+      {
+        "name": "Chris Wormley",
+        "passingYards": "575.87"
+      },
+      {
+        "name": "Marshal Yanda",
+        "passingYards": "555.34"
+      },
+      {
+        "name": "Kenny Young",
+        "passingYards": "786.47"
+      },
+      {
+        "name": "Randin Crecelius",
+        "passingYards": "600.80"
+      },
+      {
+        "name": "Iman Marshall",
+        "passingYards": "874.92"
+      },
+      {
+        "name": "Fish Smithson",
+        "passingYards": "809.52"
+      },
+      {
+        "name": "Tavon Young",
+        "passingYards": "819.13"
+      },
+      {
+        "name": "Aaron Adeoye",
+        "passingYards": "493.33"
+      },
+      {
+        "name": "Terrell Bonds",
+        "passingYards": "881.09"
+      },
+      {
+        "name": "Trevon Coley",
+        "passingYards": "466.56"
+      },
+      {
+        "name": "Parker Ehinger",
+        "passingYards": "546.22"
+      },
+      {
+        "name": "Christopher Ezeala",
+        "passingYards": "870.12"
+      },
+      {
+        "name": "Cole Herdman",
+        "passingYards": "548.80"
+      },
+      {
+        "name": "R.J. Prince",
+        "passingYards": "734.26"
+      },
+      {
+        "name": "Charles Scarff",
+        "passingYards": "663.09"
+      },
+      {
+        "name": "Zach Sieler",
+        "passingYards": "560.02"
+      },
+      {
+        "name": "De'Lance Turner",
+        "passingYards": "877.18"
+      },
+      {
+        "name": "Antoine Wesley",
+        "passingYards": "401.30"
+      },
+      {
+        "name": "Mark Thompson",
+        "passingYards": "764.40"
+      }
+    ]
+  },
+  {
+    "code": "BUF",
+    "fullName": "Buffalo Bills",
+    "shortName": "Buffalo",
+    "imagePath":"assets/images/bills.png",
+    "players": [
+      {
+        "name": "Lorenzo Alexander",
+        "passingYards": "738.24"
+      },
+      {
+        "name": "Maurice Alexander",
+        "passingYards": "610.51"
+      },
+      {
+        "name": "Josh Allen",
+        "passingYards": "465.26"
+      },
+      {
+        "name": "Matt Barkley",
+        "passingYards": "579.93"
+      },
+      {
+        "name": "Ryan Bates",
+        "passingYards": "475.74"
+      },
+      {
+        "name": "Cole Beasley",
+        "passingYards": "678.03"
+      },
+      {
+        "name": "Ike Boettger",
+        "passingYards": "806.54"
+      },
+      {
+        "name": "Corey Bojorquez",
+        "passingYards": "794.17"
+      },
+      {
+        "name": "John Brown",
+        "passingYards": "500.67"
+      },
+      {
+        "name": "Kurt Coleman",
+        "passingYards": "467.08"
+      },
+      {
+        "name": "Dion Dawkins",
+        "passingYards": "631.94"
+      },
+      {
+        "name": "Patrick DiMarco",
+        "passingYards": "498.68"
+      },
+      {
+        "name": "Tremaine Edmunds",
+        "passingYards": "491.68"
+      },
+      {
+        "name": "Jon Feliciano",
+        "passingYards": "453.59"
+      },
+      {
+        "name": "Reid Ferguson",
+        "passingYards": "566.04"
+      },
+      {
+        "name": "Cody Ford",
+        "passingYards": "633.24"
+      },
+      {
+        "name": "Robert Foster",
+        "passingYards": "864.40"
+      },
+      {
+        "name": "Frank Gore",
+        "passingYards": "512.51"
+      },
+      {
+        "name": "Stephen Hauschka",
+        "passingYards": "702.35"
+      },
+      {
+        "name": "Jerry Hughes",
+        "passingYards": "712.46"
+      },
+      {
+        "name": "Micah Hyde",
+        "passingYards": "446.81"
+      },
+      {
+        "name": "Darryl Johnson",
+        "passingYards": "813.04"
+      },
+      {
+        "name": "Jaquan Johnson",
+        "passingYards": "877.63"
+      },
+      {
+        "name": "Kevin Johnson",
+        "passingYards": "486.14"
+      },
+      {
+        "name": "Taron Johnson",
+        "passingYards": "494.73"
+      },
+      {
+        "name": "Zay Jones",
+        "passingYards": "738.73"
+      },
+      {
+        "name": "Dawson Knox",
+        "passingYards": "483.89"
+      },
+      {
+        "name": "Tyler Kroft",
+        "passingYards": "810.97"
+      },
+      {
+        "name": "Shaq Lawson",
+        "passingYards": "454.49"
+      },
+      {
+        "name": "Spencer Long",
+        "passingYards": "766.64"
+      },
+      {
+        "name": "Star Lotulelei",
+        "passingYards": "736.14"
+      },
+      {
+        "name": "Dean Marlowe",
+        "passingYards": "509.62"
+      },
+      {
+        "name": "Conor McDermott",
+        "passingYards": "752.20"
+      },
+      {
+        "name": "Isaiah McKenzie",
+        "passingYards": "616.15"
+      },
+      {
+        "name": "Matt Milano",
+        "passingYards": "439.97"
+      },
+      {
+        "name": "Mitch Morse",
+        "passingYards": "668.83"
+      },
+      {
+        "name": "Trent Murphy",
+        "passingYards": "444.84"
+      },
+      {
+        "name": "Siran Neal",
+        "passingYards": "863.76"
+      },
+      {
+        "name": "Ty Nsekhe",
+        "passingYards": "722.21"
+      },
+      {
+        "name": "Ed Oliver",
+        "passingYards": "556.87"
+      },
+      {
+        "name": "Harrison Phillips",
+        "passingYards": "565.13"
+      },
+      {
+        "name": "Jordan Phillips",
+        "passingYards": "505.89"
+      },
+      {
+        "name": "Jordan Poyer",
+        "passingYards": "524.67"
+      },
+      {
+        "name": "Andre Roberts",
+        "passingYards": "733.66"
+      },
+      {
+        "name": "Devin Singletary",
+        "passingYards": "806.02"
+      },
+      {
+        "name": "Lee Smith",
+        "passingYards": "588.67"
+      },
+      {
+        "name": "Quinton Spain",
+        "passingYards": "754.42"
+      },
+      {
+        "name": "Julian Stanford",
+        "passingYards": "680.12"
+      },
+      {
+        "name": "Tommy Sweeney",
+        "passingYards": "575.86"
+      },
+      {
+        "name": "Corey Thompson",
+        "passingYards": "512.15"
+      },
+      {
+        "name": "Levi Wallace",
+        "passingYards": "567.95"
+      },
+      {
+        "name": "Tre'Davious White",
+        "passingYards": "725.47"
+      },
+      {
+        "name": "T.J. Yeldon",
+        "passingYards": "697.75"
+      },
+      {
+        "name": "Jason Croom",
+        "passingYards": "552.29"
+      },
+      {
+        "name": "Vosean Joseph",
+        "passingYards": "797.05"
+      },
+      {
+        "name": "Mike Love",
+        "passingYards": "739.29"
+      },
+      {
+        "name": "LaAdrian Waddle",
+        "passingYards": "415.31"
+      },
+      {
+        "name": "Tyrel Dodson",
+        "passingYards": "831.76"
+      },
+      {
+        "name": "Curtis Akins",
+        "passingYards": "611.19"
+      },
+      {
+        "name": "Nate Becker",
+        "passingYards": "611.68"
+      },
+      {
+        "name": "Cam Lewis",
+        "passingYards": "725.02"
+      },
+      {
+        "name": "Erik Magnuson",
+        "passingYards": "612.00"
+      },
+      {
+        "name": "Byron Marshall",
+        "passingYards": "851.13"
+      },
+      {
+        "name": "Kyle Peko",
+        "passingYards": "643.93"
+      },
+      {
+        "name": "Vincent Taylor",
+        "passingYards": "887.46"
+      },
+      {
+        "name": "Christian Wade",
+        "passingYards": "703.81"
+      },
+      {
+        "name": "Davis Webb",
+        "passingYards": "839.35"
+      },
+      {
+        "name": "Duke Williams",
+        "passingYards": "741.85"
+      },
+      {
+        "name": "Eddie Yarbrough",
+        "passingYards": "753.99"
+      }
+    ]
+  },
+  {
+    "code": "CAR",
+    "fullName": "Carolina Panthers",
+    "shortName": "Carolina",
+    "imagePath":"assets/images/panthers.jpg",
+    "players": [
+      {
+        "name": "Mario Addison",
+        "passingYards": "609.69"
+      },
+      {
+        "name": "Kyle Allen",
+        "passingYards": "727.35"
+      },
+      {
+        "name": "Alex Armah",
+        "passingYards": "576.23"
+      },
+      {
+        "name": "Reggie Bonnafon",
+        "passingYards": "843.72"
+      },
+      {
+        "name": "Tre Boston",
+        "passingYards": "896.42"
+      },
+      {
+        "name": "James Bradberry",
+        "passingYards": "719.65"
+      },
+      {
+        "name": "Brian Burns",
+        "passingYards": "861.81"
+      },
+      {
+        "name": "Vernon Butler",
+        "passingYards": "451.76"
+      },
+      {
+        "name": "Jermaine Carter",
+        "passingYards": "554.17"
+      },
+      {
+        "name": "Ross Cockrell",
+        "passingYards": "740.75"
+      },
+      {
+        "name": "Dennis Daley",
+        "passingYards": "605.44"
+      },
+      {
+        "name": "Javien Elliott",
+        "passingYards": "848.00"
+      },
+      {
+        "name": "Rashaan Gaulden",
+        "passingYards": "570.13"
+      },
+      {
+        "name": "Brandon Greene",
+        "passingYards": "556.07"
+      },
+      {
+        "name": "Will Grier",
+        "passingYards": "640.74"
+      },
+      {
+        "name": "Marquis Haynes",
+        "passingYards": "498.36"
+      },
+      {
+        "name": "Chris Hogan",
+        "passingYards": "810.88"
+      },
+      {
+        "name": "Bruce Irvin",
+        "passingYards": "605.55"
+      },
+      {
+        "name": "Donte Jackson",
+        "passingYards": "634.83"
+      },
+      {
+        "name": "Natrell Jamerson",
+        "passingYards": "779.69"
+      },
+      {
+        "name": "J.J. Jansen",
+        "passingYards": "523.72"
+      },
+      {
+        "name": "Colin Jones",
+        "passingYards": "492.12"
+      },
+      {
+        "name": "Luke Kuechly",
+        "passingYards": "624.77"
+      },
+      {
+        "name": "Jordan Kunaszyk",
+        "passingYards": "556.00"
+      },
+      {
+        "name": "Tyler Larsen",
+        "passingYards": "851.17"
+      },
+      {
+        "name": "Greg Little",
+        "passingYards": "823.03"
+      },
+      {
+        "name": "Kyle Love",
+        "passingYards": "860.37"
+      },
+      {
+        "name": "Chris Manhertz",
+        "passingYards": "698.70"
+      },
+      {
+        "name": "Christian McCaffrey",
+        "passingYards": "597.68"
+      },
+      {
+        "name": "Ray-Ray McCloud",
+        "passingYards": "582.44"
+      },
+      {
+        "name": "Gerald McCoy",
+        "passingYards": "407.16"
+      },
+      {
+        "name": "Christian Miller",
+        "passingYards": "812.65"
+      },
+      {
+        "name": "DJ Moore",
+        "passingYards": "425.01"
+      },
+      {
+        "name": "Taylor Moton",
+        "passingYards": "671.94"
+      },
+      {
+        "name": "Cam Newton",
+        "passingYards": "663.64"
+      },
+      {
+        "name": "Efe Obada",
+        "passingYards": "626.65"
+      },
+      {
+        "name": "Greg Olsen",
+        "passingYards": "846.32"
+      },
+      {
+        "name": "Michael Palardy",
+        "passingYards": "509.79"
+      },
+      {
+        "name": "Matt Paradis",
+        "passingYards": "509.05"
+      },
+      {
+        "name": "Dontari Poe",
+        "passingYards": "887.39"
+      },
+      {
+        "name": "Eric Reid",
+        "passingYards": "875.09"
+      },
+      {
+        "name": "Curtis Samuel",
+        "passingYards": "415.02"
+      },
+      {
+        "name": "Jordan Scarlett",
+        "passingYards": "839.84"
+      },
+      {
+        "name": "Kawann Short",
+        "passingYards": "515.86"
+      },
+      {
+        "name": "Joey Slye",
+        "passingYards": "409.50"
+      },
+      {
+        "name": "Andre Smith",
+        "passingYards": "475.01"
+      },
+      {
+        "name": "Ian Thomas",
+        "passingYards": "857.14"
+      },
+      {
+        "name": "Shaq Thompson",
+        "passingYards": "517.43"
+      },
+      {
+        "name": "Trai Turner",
+        "passingYards": "526.54"
+      },
+      {
+        "name": "Greg Van Roten",
+        "passingYards": "517.96"
+      },
+      {
+        "name": "Daryl Williams",
+        "passingYards": "770.04"
+      },
+      {
+        "name": "Jarius Wright",
+        "passingYards": "782.50"
+      },
+      {
+        "name": "Brandon Zylstra",
+        "passingYards": "754.15"
+      },
+      {
+        "name": "Kofi Amichia",
+        "passingYards": "501.12"
+      },
+      {
+        "name": "Marcus Baugh",
+        "passingYards": "879.55"
+      },
+      {
+        "name": "Graham Gano",
+        "passingYards": "721.66"
+      },
+      {
+        "name": "Dillon Gordon",
+        "passingYards": "573.50"
+      },
+      {
+        "name": "Kitt O'Brien",
+        "passingYards": "735.08"
+      },
+      {
+        "name": "Damian Parms",
+        "passingYards": "820.16"
+      },
+      {
+        "name": "Destiny Vaeao",
+        "passingYards": "436.78"
+      },
+      {
+        "name": "Quin Blanding",
+        "passingYards": "697.55"
+      },
+      {
+        "name": "Rishard Cook",
+        "passingYards": "811.21"
+      },
+      {
+        "name": "Bryan Cox, Jr.",
+        "passingYards": "872.74"
+      },
+      {
+        "name": "Temarrick Hemingway",
+        "passingYards": "679.14"
+      },
+      {
+        "name": "Elijah Holyfield",
+        "passingYards": "882.61"
+      },
+      {
+        "name": "Bijhon Jackson",
+        "passingYards": "746.08"
+      },
+      {
+        "name": "Cole Luke",
+        "passingYards": "465.16"
+      },
+      {
+        "name": "Brad Lundblade",
+        "passingYards": "760.16"
+      },
+      {
+        "name": "Sione Teuhema",
+        "passingYards": "641.62"
+      },
+      {
+        "name": "DeAndrew White",
+        "passingYards": "803.91"
+      }
+    ]
+  },
+  {
+    "code": "CHI",
+    "fullName": "Chicago Bears",
+    "shortName": "Chicago",
+    "imagePath":"assets/images/bears.jpg",
+    "players": [
+      {
+        "name": "Prince Amukamara",
+        "passingYards": "771.04"
+      },
+      {
+        "name": "Ben Braunecker",
+        "passingYards": "402.03"
+      },
+      {
+        "name": "Trey Burton",
+        "passingYards": "852.44"
+      },
+      {
+        "name": "Deon Bush",
+        "passingYards": "890.26"
+      },
+      {
+        "name": "Ha Ha Clinton-Dix",
+        "passingYards": "471.10"
+      },
+      {
+        "name": "Tarik Cohen",
+        "passingYards": "568.69"
+      },
+      {
+        "name": "Rashaad Coward",
+        "passingYards": "652.10"
+      },
+      {
+        "name": "Chase Daniel",
+        "passingYards": "517.01"
+      },
+      {
+        "name": "James Daniels",
+        "passingYards": "882.07"
+      },
+      {
+        "name": "Mike Davis",
+        "passingYards": "484.08"
+      },
+      {
+        "name": "Leonard Floyd",
+        "passingYards": "692.52"
+      },
+      {
+        "name": "Kyle Fuller",
+        "passingYards": "671.33"
+      },
+      {
+        "name": "Taylor Gabriel",
+        "passingYards": "447.76"
+      },
+      {
+        "name": "Eddie Goldman",
+        "passingYards": "776.85"
+      },
+      {
+        "name": "Akiem Hicks",
+        "passingYards": "487.68"
+      },
+      {
+        "name": "J.P. Holtz",
+        "passingYards": "672.83"
+      },
+      {
+        "name": "DeAndre Houston-Carson",
+        "passingYards": "407.00"
+      },
+      {
+        "name": "Isaiah Irving",
+        "passingYards": "759.45"
+      },
+      {
+        "name": "Joel Iyiegbuniwe",
+        "passingYards": "702.23"
+      },
+      {
+        "name": "Eddie Jackson",
+        "passingYards": "441.79"
+      },
+      {
+        "name": "Nick Kwiatkoski",
+        "passingYards": "707.34"
+      },
+      {
+        "name": "Ted Larsen",
+        "passingYards": "621.86"
+      },
+      {
+        "name": "Charles Leno Jr.",
+        "passingYards": "667.08"
+      },
+      {
+        "name": "Kyle Long",
+        "passingYards": "865.87"
+      },
+      {
+        "name": "Cornelius Lucas",
+        "passingYards": "822.72"
+      },
+      {
+        "name": "Aaron Lynch",
+        "passingYards": "844.22"
+      },
+      {
+        "name": "Khalil Mack",
+        "passingYards": "429.36"
+      },
+      {
+        "name": "Bobby Massie",
+        "passingYards": "516.30"
+      },
+      {
+        "name": "Sherrick McManis",
+        "passingYards": "453.76"
+      },
+      {
+        "name": "Anthony Miller",
+        "passingYards": "412.04"
+      },
+      {
+        "name": "David Montgomery",
+        "passingYards": "458.12"
+      },
+      {
+        "name": "Bilal Nichols",
+        "passingYards": "848.18"
+      },
+      {
+        "name": "Pat O'Donnell",
+        "passingYards": "402.74"
+      },
+      {
+        "name": "Cordarrelle Patterson",
+        "passingYards": "589.97"
+      },
+      {
+        "name": "Kevin Pierre-Louis",
+        "passingYards": "429.31"
+      },
+      {
+        "name": "Eddy Piñeiro",
+        "passingYards": "512.28"
+      },
+      {
+        "name": "Riley Ridley",
+        "passingYards": "778.66"
+      },
+      {
+        "name": "Roy Robertson-Harris",
+        "passingYards": "432.71"
+      },
+      {
+        "name": "Allen Robinson II",
+        "passingYards": "597.61"
+      },
+      {
+        "name": "Patrick Scales",
+        "passingYards": "419.71"
+      },
+      {
+        "name": "Adam Shaheen",
+        "passingYards": "633.18"
+      },
+      {
+        "name": "Duke Shelley",
+        "passingYards": "773.25"
+      },
+      {
+        "name": "Buster Skrine",
+        "passingYards": "479.05"
+      },
+      {
+        "name": "Roquan Smith",
+        "passingYards": "708.68"
+      },
+      {
+        "name": "Bradley Sowell",
+        "passingYards": "645.95"
+      },
+      {
+        "name": "Kevin Toliver II",
+        "passingYards": "869.23"
+      },
+      {
+        "name": "Danny Trevathan",
+        "passingYards": "491.25"
+      },
+      {
+        "name": "Mitchell Trubisky",
+        "passingYards": "894.21"
+      },
+      {
+        "name": "Cody Whitehair",
+        "passingYards": "442.89"
+      },
+      {
+        "name": "Kerrith Whyte Jr.",
+        "passingYards": "830.41"
+      },
+      {
+        "name": "Nick Williams",
+        "passingYards": "639.91"
+      },
+      {
+        "name": "Javon Wims",
+        "passingYards": "548.64"
+      },
+      {
+        "name": "Josh Woods",
+        "passingYards": "890.71"
+      },
+      {
+        "name": "Blake Blackmar",
+        "passingYards": "550.27"
+      },
+      {
+        "name": "T.J. Clemmings",
+        "passingYards": "893.00"
+      },
+      {
+        "name": "Dax Raymond",
+        "passingYards": "562.28"
+      },
+      {
+        "name": "Abdullah Anderson",
+        "passingYards": "850.73"
+      },
+      {
+        "name": "Alex Bars",
+        "passingYards": "678.41"
+      },
+      {
+        "name": "Tyler Bray",
+        "passingYards": "438.17"
+      },
+      {
+        "name": "Stephen Denmark",
+        "passingYards": "469.24"
+      },
+      {
+        "name": "Jonathan Harris",
+        "passingYards": "551.63"
+      },
+      {
+        "name": "Jesper Horsted",
+        "passingYards": "748.50"
+      },
+      {
+        "name": "Thomas Ives",
+        "passingYards": "714.38"
+      },
+      {
+        "name": "Michael Joseph",
+        "passingYards": "544.50"
+      },
+      {
+        "name": "Sam Mustipher",
+        "passingYards": "897.56"
+      },
+      {
+        "name": "Ryan Nall",
+        "passingYards": "458.13"
+      }
+    ]
+  },
+  {
+    "code": "CIN",
+    "fullName": "Cincinnati Bengals",
+    "shortName": "Cincinnati",
+    "imagePath":"assets/images/bengals.png",
+    "players": [
+      {
+        "name": "Geno Atkins",
+        "passingYards": "596.44"
+      },
+      {
+        "name": "Jessie Bates III",
+        "passingYards": "509.57"
+      },
+      {
+        "name": "Giovani Bernard",
+        "passingYards": "860.27"
+      },
+      {
+        "name": "Andrew Billings",
+        "passingYards": "766.48"
+      },
+      {
+        "name": "Tyler Boyd",
+        "passingYards": "558.09"
+      },
+      {
+        "name": "Andrew Brown",
+        "passingYards": "406.72"
+      },
+      {
+        "name": "Preston Brown",
+        "passingYards": "733.91"
+      },
+      {
+        "name": "Randy Bullock",
+        "passingYards": "417.92"
+      },
+      {
+        "name": "Cethan Carter",
+        "passingYards": "777.66"
+      },
+      {
+        "name": "Andy Dalton",
+        "passingYards": "867.76"
+      },
+      {
+        "name": "Jake Dolegala",
+        "passingYards": "721.26"
+      },
+      {
+        "name": "Carlos Dunlap",
+        "passingYards": "481.31"
+      },
+      {
+        "name": "Tyler Eifert",
+        "passingYards": "819.28"
+      },
+      {
+        "name": "Alex Erickson",
+        "passingYards": "591.40"
+      },
+      {
+        "name": "Jordan Evans",
+        "passingYards": "606.42"
+      },
+      {
+        "name": "Clayton Fejedelem",
+        "passingYards": "853.51"
+      },
+      {
+        "name": "Ryan Finley",
+        "passingYards": "663.39"
+      },
+      {
+        "name": "Ryan Glasgow",
+        "passingYards": "732.41"
+      },
+      {
+        "name": "Cordy Glenn",
+        "passingYards": "689.33"
+      },
+      {
+        "name": "A.J. Green",
+        "passingYards": "428.04"
+      },
+      {
+        "name": "Clark Harris",
+        "passingYards": "818.80"
+      },
+      {
+        "name": "Bobby Hart",
+        "passingYards": "849.43"
+      },
+      {
+        "name": "Trey Hopkins",
+        "passingYards": "437.51"
+      },
+      {
+        "name": "Sam Hubbard",
+        "passingYards": "776.95"
+      },
+      {
+        "name": "Kevin Huber",
+        "passingYards": "791.10"
+      },
+      {
+        "name": "William Jackson III",
+        "passingYards": "705.72"
+      },
+      {
+        "name": "John Jerry",
+        "passingYards": "481.10"
+      },
+      {
+        "name": "Michael Jordan",
+        "passingYards": "517.63"
+      },
+      {
+        "name": "Dre Kirkpatrick",
+        "passingYards": "417.76"
+      },
+      {
+        "name": "Carl Lawson",
+        "passingYards": "773.43"
+      },
+      {
+        "name": "Tony McRae",
+        "passingYards": "740.65"
+      },
+      {
+        "name": "John Miller",
+        "passingYards": "481.15"
+      },
+      {
+        "name": "Joe Mixon",
+        "passingYards": "560.74"
+      },
+      {
+        "name": "Samaje Perine",
+        "passingYards": "431.53"
+      },
+      {
+        "name": "Darius Phillips",
+        "passingYards": "402.73"
+      },
+      {
+        "name": "Germaine Pratt",
+        "passingYards": "829.34"
+      },
+      {
+        "name": "Billy Price",
+        "passingYards": "729.34"
+      },
+      {
+        "name": "LaRoy Reynolds",
+        "passingYards": "484.75"
+      },
+      {
+        "name": "John Ross III",
+        "passingYards": "620.13"
+      },
+      {
+        "name": "Drew Sample",
+        "passingYards": "455.44"
+      },
+      {
+        "name": "Andre Smith",
+        "passingYards": "896.32"
+      },
+      {
+        "name": "Keaton Sutherland",
+        "passingYards": "521.77"
+      },
+      {
+        "name": "Auden Tate",
+        "passingYards": "596.66"
+      },
+      {
+        "name": "Josh Tupou",
+        "passingYards": "748.68"
+      },
+      {
+        "name": "C.J. Uzomah",
+        "passingYards": "477.10"
+      },
+      {
+        "name": "Nick Vigil",
+        "passingYards": "575.74"
+      },
+      {
+        "name": "B.W. Webb",
+        "passingYards": "534.20"
+      },
+      {
+        "name": "Shawn Williams",
+        "passingYards": "488.09"
+      },
+      {
+        "name": "Trayveon Williams",
+        "passingYards": "475.65"
+      },
+      {
+        "name": "Damion Willis",
+        "passingYards": "791.56"
+      },
+      {
+        "name": "Brandon Wilson",
+        "passingYards": "865.40"
+      },
+      {
+        "name": "Renell Wren",
+        "passingYards": "809.64"
+      },
+      {
+        "name": "Kerry Wynn",
+        "passingYards": "559.35"
+      },
+      {
+        "name": "Rodney Anderson",
+        "passingYards": "407.20"
+      },
+      {
+        "name": "O'Shea Dugas",
+        "passingYards": "578.09"
+      },
+      {
+        "name": "Niles Scott",
+        "passingYards": "603.66"
+      },
+      {
+        "name": "Darqueze Dennard",
+        "passingYards": "448.26"
+      },
+      {
+        "name": "Jonah Williams",
+        "passingYards": "774.18"
+      },
+      {
+        "name": "Alex Redmond",
+        "passingYards": "867.72"
+      },
+      {
+        "name": "Moritz Böhringer",
+        "passingYards": "661.92"
+      },
+      {
+        "name": "Dino Boyd",
+        "passingYards": "541.85"
+      },
+      {
+        "name": "Anthony Chesley",
+        "passingYards": "499.82"
+      },
+      {
+        "name": "Noah Dawkins",
+        "passingYards": "619.66"
+      },
+      {
+        "name": "Jordan Ellis",
+        "passingYards": "594.44"
+      },
+      {
+        "name": "Jordan Franks",
+        "passingYards": "847.57"
+      },
+      {
+        "name": "Trayvon Henderson",
+        "passingYards": "834.64"
+      },
+      {
+        "name": "Wyatt Miller",
+        "passingYards": "707.58"
+      },
+      {
+        "name": "Stanley Morgan",
+        "passingYards": "508.16"
+      },
+      {
+        "name": "Hardy Nickerson",
+        "passingYards": "459.41"
+      },
+      {
+        "name": "Mason Schreck",
+        "passingYards": "615.74"
+      }
+    ]
+  },
+  {
+    "code": "CLE",
+    "fullName": "Cleveland Browns",
+    "shortName": "Cleveland",
+    "imagePath":"assets/images/browns.png",
+    "players": [
+      {
+        "name": "Genard Avery",
+        "passingYards": "470.75"
+      },
+      {
+        "name": "Odell Beckham Jr.",
+        "passingYards": "738.64"
+      },
+      {
+        "name": "Joel Bitonio",
+        "passingYards": "575.96"
+      },
+      {
+        "name": "Pharaoh Brown",
+        "passingYards": "712.02"
+      },
+      {
+        "name": "Morgan Burnett",
+        "passingYards": "706.75"
+      },
+      {
+        "name": "T.J. Carrie",
+        "passingYards": "480.76"
+      },
+      {
+        "name": "Nick Chubb",
+        "passingYards": "790.80"
+      },
+      {
+        "name": "Austin Corbett",
+        "passingYards": "588.35"
+      },
+      {
+        "name": "Daniel Ekuale",
+        "passingYards": "896.81"
+      },
+      {
+        "name": "Myles Garrett",
+        "passingYards": "787.52"
+      },
+      {
+        "name": "Garrett Gilbert",
+        "passingYards": "869.67"
+      },
+      {
+        "name": "Jamie Gillan",
+        "passingYards": "764.08"
+      },
+      {
+        "name": "Demetrius Harris",
+        "passingYards": "618.34"
+      },
+      {
+        "name": "Rashard Higgins",
+        "passingYards": "657.67"
+      },
+      {
+        "name": "Dontrell Hilliard",
+        "passingYards": "586.15"
+      },
+      {
+        "name": "KhaDarel Hodge",
+        "passingYards": "424.92"
+      },
+      {
+        "name": "Chris Hubbard",
+        "passingYards": "843.27"
+      },
+      {
+        "name": "Charley Hughlett",
+        "passingYards": "672.62"
+      },
+      {
+        "name": "Malik Jefferson",
+        "passingYards": "711.08"
+      },
+      {
+        "name": "D'Ernest Johnson",
+        "passingYards": "586.31"
+      },
+      {
+        "name": "Christian Kirksey",
+        "passingYards": "831.36"
+      },
+      {
+        "name": "Eric Kush",
+        "passingYards": "561.84"
+      },
+      {
+        "name": "Kendall Lamm",
+        "passingYards": "789.39"
+      },
+      {
+        "name": "Jarvis Landry",
+        "passingYards": "626.17"
+      },
+      {
+        "name": "Devaroe Lawrence",
+        "passingYards": "452.43"
+      },
+      {
+        "name": "Baker Mayfield",
+        "passingYards": "510.36"
+      },
+      {
+        "name": "Justin McCray",
+        "passingYards": "792.42"
+      },
+      {
+        "name": "Elijah McGuire",
+        "passingYards": "488.47"
+      },
+      {
+        "name": "Terrance Mitchell",
+        "passingYards": "418.44"
+      },
+      {
+        "name": "Eric Murray",
+        "passingYards": "479.18"
+      },
+      {
+        "name": "David Njoku",
+        "passingYards": "480.91"
+      },
+      {
+        "name": "Larry Ogunjobi",
+        "passingYards": "558.83"
+      },
+      {
+        "name": "Damarious Randall",
+        "passingYards": "842.74"
+      },
+      {
+        "name": "Damion Ratley",
+        "passingYards": "858.63"
+      },
+      {
+        "name": "Sheldrick Redwine",
+        "passingYards": "550.46"
+      },
+      {
+        "name": "Sheldon Richardson",
+        "passingYards": "703.82"
+      },
+      {
+        "name": "Greg Robinson",
+        "passingYards": "652.80"
+      },
+      {
+        "name": "Joe Schobert",
+        "passingYards": "449.74"
+      },
+      {
+        "name": "Ricky Seals-Jones",
+        "passingYards": "633.54"
+      },
+      {
+        "name": "Austin Seibert",
+        "passingYards": "798.59"
+      },
+      {
+        "name": "Chris Smith",
+        "passingYards": "891.58"
+      },
+      {
+        "name": "Sione Takitaki",
+        "passingYards": "752.82"
+      },
+      {
+        "name": "Adarius Taylor",
+        "passingYards": "609.58"
+      },
+      {
+        "name": "Taywan Taylor",
+        "passingYards": "623.94"
+      },
+      {
+        "name": "Wyatt Teller",
+        "passingYards": "623.78"
+      },
+      {
+        "name": "Chad Thomas",
+        "passingYards": "884.02"
+      },
+      {
+        "name": "Tavierre Thomas",
+        "passingYards": "659.58"
+      },
+      {
+        "name": "JC Tretter",
+        "passingYards": "745.17"
+      },
+      {
+        "name": "Olivier Vernon",
+        "passingYards": "594.33"
+      },
+      {
+        "name": "Denzel Ward",
+        "passingYards": "493.36"
+      },
+      {
+        "name": "Jermaine Whitehead",
+        "passingYards": "428.90"
+      },
+      {
+        "name": "Greedy Williams",
+        "passingYards": "616.19"
+      },
+      {
+        "name": "Mack Wilson",
+        "passingYards": "402.72"
+      },
+      {
+        "name": "Lo Falemaka",
+        "passingYards": "729.12"
+      },
+      {
+        "name": "Drew Forbes",
+        "passingYards": "480.58"
+      },
+      {
+        "name": "Joe Kerridge",
+        "passingYards": "775.93"
+      },
+      {
+        "name": "D.J. Montgomery",
+        "passingYards": "588.23"
+      },
+      {
+        "name": "Drew Stanton",
+        "passingYards": "446.38"
+      },
+      {
+        "name": "Antonio Callaway",
+        "passingYards": "615.86"
+      },
+      {
+        "name": "Kareem Hunt",
+        "passingYards": "491.76"
+      },
+      {
+        "name": "Brandin Bryant",
+        "passingYards": "775.50"
+      },
+      {
+        "name": "Stephen Carlson",
+        "passingYards": "463.78"
+      },
+      {
+        "name": "Shelton Gibson",
+        "passingYards": "690.38"
+      },
+      {
+        "name": "Colby Gossett",
+        "passingYards": "512.45"
+      },
+      {
+        "name": "Willie Harvey",
+        "passingYards": "614.25"
+      },
+      {
+        "name": "J.T. Hassell",
+        "passingYards": "756.29"
+      },
+      {
+        "name": "Robert Jackson",
+        "passingYards": "515.50"
+      },
+      {
+        "name": "Malcolm Pridgeon",
+        "passingYards": "662.82"
+      },
+      {
+        "name": "Tigie Sankoh",
+        "passingYards": "670.52"
+      },
+      {
+        "name": "Derrick Willies",
+        "passingYards": "735.76"
+      },
+      {
+        "name": "Willie Wright",
+        "passingYards": "758.40"
+      }
+    ]
+  },
+  {
+    "code": "DAL",
+    "fullName": "Dallas Cowboys",
+    "shortName": "Dallas",
+    "imagePath":"assets/images/cowboys.jpg",
+    "players": [
+      {
+        "name": "Dorance Armstrong",
+        "passingYards": "703.60"
+      },
+      {
+        "name": "Tavon Austin",
+        "passingYards": "617.80"
+      },
+      {
+        "name": "Chidobe Awuzie",
+        "passingYards": "845.99"
+      },
+      {
+        "name": "Anthony Brown",
+        "passingYards": "585.97"
+      },
+      {
+        "name": "Randall Cobb",
+        "passingYards": "780.12"
+      },
+      {
+        "name": "La'el Collins",
+        "passingYards": "879.82"
+      },
+      {
+        "name": "Maliek Collins",
+        "passingYards": "509.16"
+      },
+      {
+        "name": "Amari Cooper",
+        "passingYards": "491.85"
+      },
+      {
+        "name": "Christian Covington",
+        "passingYards": "799.92"
+      },
+      {
+        "name": "Tyrone Crawford",
+        "passingYards": "678.36"
+      },
+      {
+        "name": "Ezekiel Elliott",
+        "passingYards": "571.11"
+      },
+      {
+        "name": "Cameron Fleming",
+        "passingYards": "734.09"
+      },
+      {
+        "name": "Kavon Frazier",
+        "passingYards": "414.52"
+      },
+      {
+        "name": "Travis Frederick",
+        "passingYards": "718.90"
+      },
+      {
+        "name": "Michael Gallup",
+        "passingYards": "874.75"
+      },
+      {
+        "name": "Luke Gifford",
+        "passingYards": "637.95"
+      },
+      {
+        "name": "C.J. Goodwin",
+        "passingYards": "896.10"
+      },
+      {
+        "name": "Jeff Heath",
+        "passingYards": "553.21"
+      },
+      {
+        "name": "Trysten Hill",
+        "passingYards": "682.48"
+      },
+      {
+        "name": "Kerry Hyder",
+        "passingYards": "426.87"
+      },
+      {
+        "name": "Joe Jackson",
+        "passingYards": "563.81"
+      },
+      {
+        "name": "Blake Jarwin",
+        "passingYards": "795.78"
+      },
+      {
+        "name": "Byron Jones",
+        "passingYards": "859.75"
+      },
+      {
+        "name": "Chris Jones",
+        "passingYards": "482.46"
+      },
+      {
+        "name": "Brandon Knight",
+        "passingYards": "415.45"
+      },
+      {
+        "name": "L.P. Ladouceur",
+        "passingYards": "602.22"
+      },
+      {
+        "name": "DeMarcus Lawrence",
+        "passingYards": "410.12"
+      },
+      {
+        "name": "Sean Lee",
+        "passingYards": "688.91"
+      },
+      {
+        "name": "Jourdan Lewis",
+        "passingYards": "711.55"
+      },
+      {
+        "name": "Joe Looney",
+        "passingYards": "465.63"
+      },
+      {
+        "name": "Brett Maher",
+        "passingYards": "695.39"
+      },
+      {
+        "name": "Justin March",
+        "passingYards": "870.39"
+      },
+      {
+        "name": "Zack Martin",
+        "passingYards": "801.97"
+      },
+      {
+        "name": "Connor McGovern",
+        "passingYards": "411.95"
+      },
+      {
+        "name": "Jamize Olawale",
+        "passingYards": "430.36"
+      },
+      {
+        "name": "Tony Pollard",
+        "passingYards": "825.81"
+      },
+      {
+        "name": "Dak Prescott",
+        "passingYards": "777.96"
+      },
+      {
+        "name": "Robert Quinn",
+        "passingYards": "516.10"
+      },
+      {
+        "name": "Adam Redmond",
+        "passingYards": "859.75"
+      },
+      {
+        "name": "Cooper Rush",
+        "passingYards": "730.20"
+      },
+      {
+        "name": "Dalton Schultz",
+        "passingYards": "765.42"
+      },
+      {
+        "name": "Devin Smith",
+        "passingYards": "803.55"
+      },
+      {
+        "name": "Jaylon Smith",
+        "passingYards": "865.71"
+      },
+      {
+        "name": "Tyron Smith",
+        "passingYards": "554.00"
+      },
+      {
+        "name": "Xavier Su'a-Filo",
+        "passingYards": "600.96"
+      },
+      {
+        "name": "Joe Thomas",
+        "passingYards": "857.45"
+      },
+      {
+        "name": "Darian Thompson",
+        "passingYards": "732.39"
+      },
+      {
+        "name": "Leighton Vander Esch",
+        "passingYards": "548.75"
+      },
+      {
+        "name": "Connor Williams",
+        "passingYards": "585.50"
+      },
+      {
+        "name": "Cedrick Wilson",
+        "passingYards": "847.45"
+      },
+      {
+        "name": "Donovan Wilson",
+        "passingYards": "423.68"
+      },
+      {
+        "name": "Jason Witten",
+        "passingYards": "570.15"
+      },
+      {
+        "name": "Antwaun Woods",
+        "passingYards": "614.62"
+      },
+      {
+        "name": "Xavier Woods",
+        "passingYards": "737.47"
+      },
+      {
+        "name": "Jalen Jelks",
+        "passingYards": "593.32"
+      },
+      {
+        "name": "Jon'Vea Johnson",
+        "passingYards": "685.55"
+      },
+      {
+        "name": "Daniel Ross",
+        "passingYards": "534.57"
+      },
+      {
+        "name": "Chris Westry",
+        "passingYards": "451.05"
+      },
+      {
+        "name": "Cody Wichmann",
+        "passingYards": "547.13"
+      },
+      {
+        "name": "Noah Brown",
+        "passingYards": "800.59"
+      },
+      {
+        "name": "Randy Gregory",
+        "passingYards": "728.54"
+      },
+      {
+        "name": "Ventell Bryant",
+        "passingYards": "834.24"
+      },
+      {
+        "name": "Chris Covington",
+        "passingYards": "786.10"
+      },
+      {
+        "name": "Cole Hikutini",
+        "passingYards": "847.78"
+      },
+      {
+        "name": "Mitch Hyatt",
+        "passingYards": "716.23"
+      },
+      {
+        "name": "Mike Jackson Sr.",
+        "passingYards": "809.28"
+      },
+      {
+        "name": "Donovan Olumba",
+        "passingYards": "448.19"
+      },
+      {
+        "name": "Clayton Thorson",
+        "passingYards": "515.85"
+      },
+      {
+        "name": "Mike Weber Jr.",
+        "passingYards": "827.71"
+      },
+      {
+        "name": "Daniel Wise",
+        "passingYards": "481.32"
+      }
+    ]
+  },
+  {
+    "code": "DEN",
+    "fullName": "Denver Broncos",
+    "shortName": "Denver",
+    "imagePath":"assets/images/broncos.jpg",
+    "players": [
+      {
+        "name": "Brandon Allen",
+        "passingYards": "692.57"
+      },
+      {
+        "name": "De'Vante Bausby",
+        "passingYards": "560.29"
+      },
+      {
+        "name": "Andrew Beck",
+        "passingYards": "667.95"
+      },
+      {
+        "name": "Keishawn Bierria",
+        "passingYards": "477.94"
+      },
+      {
+        "name": "Garett Bolles",
+        "passingYards": "895.96"
+      },
+      {
+        "name": "Devontae Booker",
+        "passingYards": "408.18"
+      },
+      {
+        "name": "Bryce Callahan",
+        "passingYards": "815.89"
+      },
+      {
+        "name": "Bradley Chubb",
+        "passingYards": "436.36"
+      },
+      {
+        "name": "River Cracraft",
+        "passingYards": "491.53"
+      },
+      {
+        "name": "Todd Davis",
+        "passingYards": "579.82"
+      },
+      {
+        "name": "Duke Dawson Jr.",
+        "passingYards": "695.52"
+      },
+      {
+        "name": "Noah Fant",
+        "passingYards": "529.04"
+      },
+      {
+        "name": "Joe Flacco",
+        "passingYards": "423.90"
+      },
+      {
+        "name": "Royce Freeman",
+        "passingYards": "853.92"
+      },
+      {
+        "name": "Troy Fumagalli",
+        "passingYards": "741.72"
+      },
+      {
+        "name": "Adam Gotsis",
+        "passingYards": "575.73"
+      },
+      {
+        "name": "DaeSean Hamilton",
+        "passingYards": "552.13"
+      },
+      {
+        "name": "Chris Harris Jr.",
+        "passingYards": "674.08"
+      },
+      {
+        "name": "Davontae Harris",
+        "passingYards": "481.30"
+      },
+      {
+        "name": "Shelby Harris",
+        "passingYards": "419.05"
+      },
+      {
+        "name": "Jeff Heuerman",
+        "passingYards": "885.24"
+      },
+      {
+        "name": "Justin Hollins",
+        "passingYards": "696.08"
+      },
+      {
+        "name": "Kareem Jackson",
+        "passingYards": "643.74"
+      },
+      {
+        "name": "Ja'Wuan James",
+        "passingYards": "780.86"
+      },
+      {
+        "name": "Andy Janovich",
+        "passingYards": "693.32"
+      },
+      {
+        "name": "Josey Jewell",
+        "passingYards": "613.71"
+      },
+      {
+        "name": "Alexander Johnson",
+        "passingYards": "466.83"
+      },
+      {
+        "name": "Dre'Mont Jones",
+        "passingYards": "478.59"
+      },
+      {
+        "name": "Joe Jones",
+        "passingYards": "527.64"
+      },
+      {
+        "name": "Casey Kreiter",
+        "passingYards": "730.67"
+      },
+      {
+        "name": "Ron Leary",
+        "passingYards": "520.25"
+      },
+      {
+        "name": "Phillip Lindsay",
+        "passingYards": "440.88"
+      },
+      {
+        "name": "Trey Marshall",
+        "passingYards": "480.79"
+      },
+      {
+        "name": "Connor McGovern",
+        "passingYards": "601.38"
+      },
+      {
+        "name": "Brandon McManus",
+        "passingYards": "635.38"
+      },
+      {
+        "name": "Von Miller",
+        "passingYards": "485.38"
+      },
+      {
+        "name": "Corey Nelson",
+        "passingYards": "495.86"
+      },
+      {
+        "name": "Will Parks",
+        "passingYards": "540.55"
+      },
+      {
+        "name": "Mike Purcell",
+        "passingYards": "799.24"
+      },
+      {
+        "name": "Malik Reed",
+        "passingYards": "873.83"
+      },
+      {
+        "name": "Dalton Risner",
+        "passingYards": "787.49"
+      },
+      {
+        "name": "Jake Rodgers",
+        "passingYards": "811.54"
+      },
+      {
+        "name": "Emmanuel Sanders",
+        "passingYards": "678.37"
+      },
+      {
+        "name": "Austin Schlottmann",
+        "passingYards": "789.99"
+      },
+      {
+        "name": "Justin Simmons",
+        "passingYards": "633.03"
+      },
+      {
+        "name": "Diontae Spencer",
+        "passingYards": "420.09"
+      },
+      {
+        "name": "Courtland Sutton",
+        "passingYards": "568.75"
+      },
+      {
+        "name": "Colby Wadman",
+        "passingYards": "607.44"
+      },
+      {
+        "name": "DeMarcus Walker",
+        "passingYards": "717.83"
+      },
+      {
+        "name": "Elijah Wilkinson",
+        "passingYards": "685.99"
+      },
+      {
+        "name": "Juwann Winfree",
+        "passingYards": "835.85"
+      },
+      {
+        "name": "Derek Wolfe",
+        "passingYards": "650.33"
+      },
+      {
+        "name": "Isaac Yiadom",
+        "passingYards": "452.21"
+      },
+      {
+        "name": "Jake Butt",
+        "passingYards": "707.26"
+      },
+      {
+        "name": "Nico Falah",
+        "passingYards": "523.15"
+      },
+      {
+        "name": "Austin Fort",
+        "passingYards": "414.76"
+      },
+      {
+        "name": "Bug Howard",
+        "passingYards": "429.13"
+      },
+      {
+        "name": "Drew Lock",
+        "passingYards": "572.81"
+      },
+      {
+        "name": "Tim Patrick",
+        "passingYards": "432.69"
+      },
+      {
+        "name": "Horace Richardson",
+        "passingYards": "796.84"
+      },
+      {
+        "name": "Theo Riddick",
+        "passingYards": "864.59"
+      },
+      {
+        "name": "Billy Winn",
+        "passingYards": "646.26"
+      },
+      {
+        "name": "Quinn Bailey",
+        "passingYards": "575.24"
+      },
+      {
+        "name": "Fred Brown",
+        "passingYards": "646.43"
+      },
+      {
+        "name": "Ahmad Gooden",
+        "passingYards": "589.95"
+      },
+      {
+        "name": "Alijah Holder",
+        "passingYards": "638.95"
+      },
+      {
+        "name": "Tyler Jones",
+        "passingYards": "520.03"
+      },
+      {
+        "name": "Corey Levin",
+        "passingYards": "652.22"
+      },
+      {
+        "name": "Khalfani Muhammad",
+        "passingYards": "775.64"
+      },
+      {
+        "name": "Brett Rypien",
+        "passingYards": "554.31"
+      },
+      {
+        "name": "Deyon Sizer",
+        "passingYards": "568.00"
+      },
+      {
+        "name": "Josh Watson",
+        "passingYards": "580.64"
+      }
+    ]
+  },
+  {
+    "code": "DET",
+    "fullName": "Detroit Lions",
+    "shortName": "Detroit",
+    "imagePath": "assets/images/lions.jpeg",
+    "players": [
+      {
+        "name": "Oday Aboushi",
+        "passingYards": "503.08"
+      },
+      {
+        "name": "Jamal Agnew",
+        "passingYards": "466.61"
+      },
+      {
+        "name": "Danny Amendola",
+        "passingYards": "854.75"
+      },
+      {
+        "name": "Nick Bawden",
+        "passingYards": "784.62"
+      },
+      {
+        "name": "Beau Benzschawel",
+        "passingYards": "478.72"
+      },
+      {
+        "name": "David Blough",
+        "passingYards": "532.21"
+      },
+      {
+        "name": "Justin Coleman",
+        "passingYards": "803.35"
+      },
+      {
+        "name": "Tyrell Crosby",
+        "passingYards": "822.36"
+      },
+      {
+        "name": "Joe Dahl",
+        "passingYards": "615.83"
+      },
+      {
+        "name": "Mike Daniels",
+        "passingYards": "683.04"
+      },
+      {
+        "name": "Jarrad Davis",
+        "passingYards": "898.50"
+      },
+      {
+        "name": "Taylor Decker",
+        "passingYards": "566.80"
+      },
+      {
+        "name": "Quandre Diggs",
+        "passingYards": "737.67"
+      },
+      {
+        "name": "Jeff Driskel",
+        "passingYards": "850.23"
+      },
+      {
+        "name": "Trey Flowers",
+        "passingYards": "458.27"
+      },
+      {
+        "name": "Mike Ford",
+        "passingYards": "424.67"
+      },
+      {
+        "name": "Travis Fulgham",
+        "passingYards": "492.86"
+      },
+      {
+        "name": "Graham Glasgow",
+        "passingYards": "586.56"
+      },
+      {
+        "name": "Kenny Golladay",
+        "passingYards": "765.24"
+      },
+      {
+        "name": "Da'Shawn Hand",
+        "passingYards": "875.25"
+      },
+      {
+        "name": "Will Harris",
+        "passingYards": "437.95"
+      },
+      {
+        "name": "Damon Harrison Sr.",
+        "passingYards": "659.32"
+      },
+      {
+        "name": "T.J. Hockenson",
+        "passingYards": "695.57"
+      },
+      {
+        "name": "Jesse James",
+        "passingYards": "632.51"
+      },
+      {
+        "name": "Kerryon Johnson",
+        "passingYards": "587.24"
+      },
+      {
+        "name": "Ty Johnson",
+        "passingYards": "875.71"
+      },
+      {
+        "name": "Christian Jones",
+        "passingYards": "701.78"
+      },
+      {
+        "name": "Marvin Jones Jr.",
+        "passingYards": "792.59"
+      },
+      {
+        "name": "Devon Kennard",
+        "passingYards": "492.10"
+      },
+      {
+        "name": "Miles Killebrew",
+        "passingYards": "607.26"
+      },
+      {
+        "name": "Chris Lacy",
+        "passingYards": "638.05"
+      },
+      {
+        "name": "Sam Martin",
+        "passingYards": "679.88"
+      },
+      {
+        "name": "J.D. McKissic",
+        "passingYards": "787.52"
+      },
+      {
+        "name": "Rashaan Melvin",
+        "passingYards": "527.39"
+      },
+      {
+        "name": "C.J. Moore",
+        "passingYards": "700.41"
+      },
+      {
+        "name": "Don Muhlbach",
+        "passingYards": "857.02"
+      },
+      {
+        "name": "Romeo Okwara",
+        "passingYards": "474.59"
+      },
+      {
+        "name": "Amani Oruwariye",
+        "passingYards": "843.00"
+      },
+      {
+        "name": "Paul Perkins",
+        "passingYards": "542.14"
+      },
+      {
+        "name": "Matt Prater",
+        "passingYards": "735.00"
+      },
+      {
+        "name": "Frank Ragnow",
+        "passingYards": "784.70"
+      },
+      {
+        "name": "Jalen Reeves-Maybin",
+        "passingYards": "534.23"
+      },
+      {
+        "name": "A'Shawn Robinson",
+        "passingYards": "495.26"
+      },
+      {
+        "name": "Darius Slay",
+        "passingYards": "445.83"
+      },
+      {
+        "name": "Matthew Stafford",
+        "passingYards": "798.34"
+      },
+      {
+        "name": "Kevin Strong",
+        "passingYards": "771.07"
+      },
+      {
+        "name": "Jahlani Tavai",
+        "passingYards": "706.64"
+      },
+      {
+        "name": "Logan Thomas",
+        "passingYards": "770.34"
+      },
+      {
+        "name": "Dee Virgin",
+        "passingYards": "828.39"
+      },
+      {
+        "name": "Rick Wagner",
+        "passingYards": "422.05"
+      },
+      {
+        "name": "Tracy Walker",
+        "passingYards": "671.76"
+      },
+      {
+        "name": "Kenny Wiggins",
+        "passingYards": "728.60"
+      },
+      {
+        "name": "Tavon Wilson",
+        "passingYards": "754.67"
+      },
+      {
+        "name": "Austin Bryant",
+        "passingYards": "512.76"
+      },
+      {
+        "name": "Jermaine Kearse",
+        "passingYards": "550.93"
+      },
+      {
+        "name": "Darius Kilgo",
+        "passingYards": "857.27"
+      },
+      {
+        "name": "John Atkins",
+        "passingYards": "564.37"
+      },
+      {
+        "name": "Nick Brossette",
+        "passingYards": "469.31"
+      },
+      {
+        "name": "Jason Cabinda",
+        "passingYards": "796.86"
+      },
+      {
+        "name": "Marvin Hall",
+        "passingYards": "628.67"
+      },
+      {
+        "name": "Tom Kennedy",
+        "passingYards": "747.31"
+      },
+      {
+        "name": "Eric Lee",
+        "passingYards": "413.44"
+      },
+      {
+        "name": "Steve Longa",
+        "passingYards": "864.48"
+      },
+      {
+        "name": "Isaac Nauta",
+        "passingYards": "734.18"
+      },
+      {
+        "name": "Matt Nelson",
+        "passingYards": "887.12"
+      },
+      {
+        "name": "Anthony Pittman",
+        "passingYards": "665.81"
+      }
+    ]
+  }
+]
